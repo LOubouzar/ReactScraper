@@ -1,2 +1,2 @@
 export { default } from "./NoMatch.js";
-export { default } from "./Books.js";
+export { default } from "./Search.js";
